@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+echo "ホストの変更<br>";
 ?>
